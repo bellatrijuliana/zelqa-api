@@ -145,7 +145,7 @@ MAX_GENERATED_CASES = 15  # Max test cases per generation
 
 ## Related
 
-- [zelqa-web](https://github.com/your-username/zelqa-web) — React frontend
+- [zelqa-web](https://github.com/bellatrijuliana/zelqa-web) — React frontend
 
 ---
 
