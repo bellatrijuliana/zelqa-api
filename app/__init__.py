@@ -9,7 +9,7 @@ def create_app():
     app = Flask(__name__)
     app.config.from_object(Config)
 
-    CORS(app, origins=['http://localhost:5173'])  # Vite dev server
+    CORS(app, origins=['http://localhost:5173','http://localhost:5174'])  # Vite dev server
 
     # Init Supabase
     global supabase_client
